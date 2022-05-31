@@ -1,0 +1,4 @@
+ToolSet: w64 5.0 (local)@C:\Users\gerda\Desktop\Paskaitos\2 Semestras\Pirmoji programavimo praktika\Game\SFML_COMPILER\compiler610\mingw64
+Options: 
+
+Options:

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/gerda/Desktop/Paskaitos/4 Semestras/Informacijos saugumas/RSA/main.cpp
+iostream
+-
+math.h
+-
+iomanip
+-
+string
+-
+fstream
+-
+
